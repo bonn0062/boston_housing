@@ -8,3 +8,5 @@ The dataset for this project originates from the UCI Machine Learning Repository
 The features 'RM', 'LSTAT', 'PTRATIO', and 'MEDV' are essential. The remaining non-relevant features have been excluded.
 The feature 'MEDV' has been multiplicatively scaled to account for 35 years of market inflation.
 Run the code cell below to load the Boston housing dataset, along with a few of the necessary Python libraries required for this project. You will know the dataset loaded successfully if the size of the dataset is reported.
+
+This project was created as a part of the Machine Learning Engineer Nanodegree through Udacity.
